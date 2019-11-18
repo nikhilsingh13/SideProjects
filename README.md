@@ -9,4 +9,4 @@ It contains projects which I've finished to a stage where it can be used by othe
   > I would also like to credit the Udemy Python-3 course.     
   > __Ideation Date__: September 21, 2017
 
-2. Next Project - soon to be uploaded
+- a lot of the projects are in final stages and will soon be uploaded.
